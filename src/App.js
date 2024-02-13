@@ -8,7 +8,8 @@ function App() {
     <h1 className='texti'>Our Testimonials</h1>
      <div className='underline'></div>
      <Testimonial reviews={reviews}/>
-     <h1>ggfgyhhgj</h1>
+     <h1>ggfgyhhgdghfhgfj</h1>
+     <h1>ggfgyhhgdghfhgfj</h1>
     </div>
     
     </div>
